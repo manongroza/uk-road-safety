@@ -75,7 +75,6 @@ top10a
 others
 View(top10a)
 detach(mm)
-#draw the histogram of top 10 (fancy)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 
@@ -135,7 +134,7 @@ View(top10a_2011)
 top2016 <- read.csv(file="top2016.csv", header=TRUE, sep=";", dec = "," )
 View(top2016)
 
-#plot!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 x11()
 
 
